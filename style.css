@@ -1,7 +1,9 @@
 /*some root css*/
 .flex{display:flex}
-.green{color:green;} .yellow{color:yellowgreen}.red{color:rgba(245, 104, 104, 0.651)} a{text-decoration: none;padding:10px 25px;background-image: linear-gradient(green,rgb(184, 235, 184)); border-radius:10px;}
-
+.green{color:green;} .yellow{color:yellowgreen}.red{color:rgba(245, 104, 104, 0.651)} 
+a{text-decoration: none;padding:10px 25px;background-image: linear-gradient(green,rgb(184, 235, 184)); border-radius:10px;font-size: 20px;font-weight: 600;color:white;}
+.two_div{width:40%; margin-right:5%;margin-left:5%;}
+img{width:100%}
 /*star css for work*/
 body{
     margin:0;padding:0;

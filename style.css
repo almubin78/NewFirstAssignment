@@ -1,13 +1,43 @@
-/*some root css*/
-.flex{display:flex}
-.green{color:green;} .yellow{color:yellowgreen}.red{color:rgba(245, 104, 104, 0.651)} 
-a{text-decoration: none;padding:10px 25px;background-image: linear-gradient(green,rgb(184, 235, 184)); border-radius:10px;font-size: 20px;font-weight: 600;color:white;}
-.two_div{width:40%; margin-right:5%;margin-left:5%;}
-img{width:100%}
-/*star css for work*/
 body{
     margin:0;padding:0;
 }
 .main_wrapper{
     margin:0 100px; background-image: linear-gradient(rgb(218, 241, 247),rgb(201, 227, 245));
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*some root css*/
+/*some root css*//*some root css*//*some root css*/
+.flex{display:flex;
+    align-items: center;
+    justify-content: center;
+}
+/*COLOR*/
+.green{color:green;} .yellow{color:yellowgreen}.red{color:rgba(245, 104, 104, 0.651)} 
+/*Link Link Link*/
+a{text-decoration: none;
+    padding:10px 25px;
+    background-image: linear-gradient(green,rgb(184, 235, 184));
+     border-radius:10px;
+     font-size: 20px;
+     font-weight: 600;
+     color:white;}
+/*DIVDIVDIV DIV DIV DIV DIV*/
+.two_div{width:40%; margin-right:5%;margin-left:5%;}
+.three div{width:30%;margin-left:3%;margin-right:7%}
+
+/*image*//*image*//*image*//*image*//*image*//*image*/
+img{width:100%}
+/*star css for work*/

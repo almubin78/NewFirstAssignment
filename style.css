@@ -5,6 +5,7 @@ p{font-size:20px;}
 .main_wrapper{
     padding:50px 100px;
 }
+/* first section styling */
 .first_section .head_border{
     border-left:5px solid green;
     
@@ -13,48 +14,43 @@ p{font-size:20px;}
     margin-left:10px;
 }
 .mheading h1{font-size:35px; font-weight:700; line-height: 20px;}
-.text{margin-top:10px;margin-bottom: 10px; padding:20px;}
+.text{
+     padding:20px;
+     font-size:20px;
+    font-weight: 650;
+    }
 .explore_more{
     color:saddlebrown;
     padding-top:25px;
     font-size: 20px;
 }
+/* Second section styling */
 .second_section h1{
     text-align: center;
     font-weight: 650;
 
 }
 
-
+/* Third section styling */
 .third_section{
     margin-top:50px;
 }
 
+/* Fourth section styling */
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* fifth section styling */
+.fifth_section{
+    margin-top:50px;
+}
+.fifth_section h1{
+    text-align: center;
+}
+.box{
+    margin-top: 50px;
+}
+/* Footer section styling */
 
 .footer{
     
@@ -66,35 +62,10 @@ p{font-size:20px;}
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
 .fot{color:green;}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*some root css*//*some root css*//*some root css*/
+/*some root css for same formate*//*some root css for same formate*/
 .flex{display:flex;
     align-items: center;
     justify-content: center;
